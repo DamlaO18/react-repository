@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { TiDelete } from 'react-icons/ti';
 
-//FIX THE BOOTSTRAP STYLING FOR PROPS COST
+
 const ExpenseItem = (props) => {
     return(
         <li className='list-group-item d-flex justify-content-between align-items-center'>
